@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1bGkSHVr8SXXVXvf5-rpFyZHQ6EaicZmJ
 """
 
-!pip install streamlit
-
-!pip install yahoofinancials
-
 import streamlit as st
 import time
 import pandas as pd
